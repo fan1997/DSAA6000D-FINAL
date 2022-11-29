@@ -38,7 +38,7 @@ print(data)
 graph = data[0]
 
 # file = "reddit"
-# data = RedditDataset(raw_dir = "/hpc/users/CONNECT/rfan404/.dgl/")
+# data = RedditDataset()
 # graph = data[0]
 
 
