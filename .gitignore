@@ -1,0 +1,13 @@
+dgl_baselines/dataset
+__pycache__
+*__pycache__
+__pycache__/*
+data/
+.vscode/*
+*egg-info
+*dist
+*build
+tcgnn-ae-graphs
+*.tar.gz
+*.csv
+*.log
