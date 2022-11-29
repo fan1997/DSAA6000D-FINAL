@@ -13,7 +13,7 @@
 
 + **Clone this project**.
 ```
-git clone git@github.com:YukeWang96/TCGNN-Pytorch.git
+git clone https://github.com/fan1997/DSAA6000D-FINAL.git
 ```
 
 + **OS & Compiler**: 
