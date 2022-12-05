@@ -1,6 +1,6 @@
 # TC-GNN-test (Running Sparse GNN on Dense Tensor Core on Ampere GPU)
 
-+ **This is the final project of DSAA6000D.** We test the [TC-GNN](https://arxiv.org/abs/2112.02052) on Nvidia Tesla A30 with some other datasets from Open Graph Library and DGL. The project is based on the original project: https://github.com/YukeWang96/TCGNN-Pytorch.
++ **This is the final project of DSAA6000D.** We test and improve the [TC-GNN](https://arxiv.org/abs/2112.02052) on Nvidia Tesla A30 with some other datasets from Open Graph Library and DGL. The project is based on the original project: https://github.com/YukeWang96/TCGNN-Pytorch.
 + **Cite this project and [paper](https://arxiv.org/abs/2112.02052).**
 ```
 @inproceedings{TC-GNN,
